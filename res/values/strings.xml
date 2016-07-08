@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OCV T3 Camera Control</string>
+     <string name="saving_sensor_success">saving_sensor_success</string>
+     <string name="saving_sensor_failed">saving_sensor_failed</string>
+      <string name="saving_camera_success">saving_camera_success</string>
+     <string name="saving_camera_failed">saving_camera_failed</string>
+     <string name="saving_data">saving_data</string>
+     <string name="please_start">please_start</string>
+     <string name="action_settings">action_settings</string>
+      <string name="reading">reading</string>
+</resources>
